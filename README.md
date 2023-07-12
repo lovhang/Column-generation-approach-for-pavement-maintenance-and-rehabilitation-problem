@@ -1,4 +1,3 @@
 # pms
-code for column generation for pavement maintenance problem
+Column generation approach for pavement maintenance and rehabilitation problem (Python, Cplex)
 
-Made some change in local to test pushing
